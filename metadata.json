@@ -1,0 +1,6 @@
+{
+  "name": "AskMe Distributed Messaging Platform",
+  "description": "Interactive architectural simulation, live k6 benchmarking, multi-node routing visualizer, and Java/Netty/Kafka code suite for AskMe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
